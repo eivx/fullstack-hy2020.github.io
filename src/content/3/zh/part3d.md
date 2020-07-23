@@ -224,7 +224,7 @@ connected to MongoDB
 ```
 
 <!-- Read the mongoose [documentation](https://mongoosejs.com/docs/deprecations.html) to find out how to get rid of the warning. -->
-阅读mongoose [文档](https://mongoosejs.com/docs/deprecations.html 文档) ，找出如何摆脱警告。
+阅读mongoose [文档](https://mongoosejs.com/docs/deprecations.html) ，找出如何摆脱警告。
 
 #### 3.20*: Phonebook database, 步骤8
 <!-- Expand the validation so that the name stored in the database has to be at least three characters long, and the phone number must have at least 8 digits. -->
